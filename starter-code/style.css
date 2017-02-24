@@ -28,6 +28,17 @@ body{
 	margin:8%;
 }
 
+
+img{
+	height:200px;
+	width:100px;
+	border: solid black 1px;
+	background: #FFFF00;
+	border-radius: 20px;
+	float:left;
+	margin:0%;
+}
+
 .name{
 	color:#ff0000;
 }
